@@ -1,0 +1,26 @@
+ERROR:root:Invalid email address.
+ERROR:root:Invalid email address.
+ERROR:root:Invalid email address.
+ERROR:root:Invalid email address.
+ERROR:root:Invalid email address.
+INFO:root:SMTP server connection (TLS) successful.
+ERROR:root:Error sending email using TLS: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-6340b57ed97sm3445623a12.23 - gsmtp')
+INFO:root:SMTP server connection (TLS) successful.
+ERROR:root:Error sending email using TLS: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-1ef0bae9cc1sm36509005ad.116 - gsmtp')
+INFO:root:SMTP server connection (TLS) successful.
+ERROR:root:Error sending email using TLS: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-1ef0bf3124dsm36747115ad.150 - gsmtp')
+INFO:root:SMTP server connection (TLS) successful.
+INFO:root:Email sent successfully using TLS.
+ERROR:root:Invalid email address.
+INFO:root:SMTP server connection (TLS) successful.
+INFO:root:Email sent successfully using TLS.
+ERROR:root:Invalid email address.
+INFO:root:SMTP server connection (TLS) successful.
+INFO:root:Email sent successfully using TLS.
+INFO:root:SMTP server connection (TLS) successful.
+INFO:root:Email sent successfully using TLS.
+ERROR:root:Invalid email address.
+INFO:root:SMTP server connection (TLS) successful.
+INFO:root:Email sent successfully using TLS.
+INFO:root:SMTP server connection (TLS) successful.
+INFO:root:Email sent successfully using TLS.
